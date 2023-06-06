@@ -69,10 +69,10 @@
 3.	В справочниках НСИ есть возможность создавать не только обычные вычисляемые атрибуты, но и [атрибуты на запросах](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_DIMENSIONS_EXAMPLE/MOD_CREATE_CALC_ATTR.text)
 
 <a name="Кубы"></a>  
-## __[Кубы](https://github.com/ForesightPlatform/Examples/tree/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXANPLE)__ 
-1.	Автокуб на другом кубе [можно создать без репозитория НСИ](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXANPLE/MOD_CREATE_AUTOCUBE.text) из кода
+## __[Кубы](https://github.com/ForesightPlatform/Examples/tree/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXAMPLE)__ 
+1.	Автокуб на другом кубе [можно создать без репозитория НСИ](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXAMPLE/MOD_CREATE_AUTOCUBE.text) из кода
 
-2.	Стандартный куб поддерживает возможность подключения коллбэков [на запрос данных](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXANPLE/MOD_DATASET_SQL_CALLBACK.text)  (от редактирования до полной подмены SQL-запроса) и коллбэков на [сохранение данных](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXANPLE/MOD_SAVECUBE_CALLBACK.text), где можно редактировать сохраняемые матрицы
+2.	Стандартный куб поддерживает возможность подключения коллбэков [на запрос данных](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXAMPLE/MOD_DATASET_SQL_CALLBACK.text)  (от редактирования до полной подмены SQL-запроса) и коллбэков на [сохранение данных](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXAMPLE/MOD_SAVECUBE_CALLBACK.text), где можно редактировать сохраняемые матрицы
 
 <a name="Загрузка_и_трансформация_данных"></a>  
 ## __[Загрузка и трансформация данных](https://github.com/ForesightPlatform/Examples/tree/main/FLD_EXAMPLE_MOD/FLD_ETL_EXAMPLE)__ 
