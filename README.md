@@ -68,6 +68,8 @@
 
 3.	В справочниках НСИ есть возможность создавать не только обычные вычисляемые атрибуты, но и [атрибуты на запросах](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_DIMENSIONS_EXAMPLE/MOD_CREATE_CALC_ATTR.text)
 
+4.	Для справочника можно [создавать группы элементов](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_DIMENSIONS_EXAMPLE/MOD_CREATE_GROUP.text)
+
 <a name="Кубы"></a>  
 ## __[Кубы](https://github.com/ForesightPlatform/Examples/tree/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXAMPLE)__ 
 1.	Автокуб на другом кубе [можно создать без репозитория НСИ](https://github.com/ForesightPlatform/Examples/blob/main/FLD_EXAMPLE_MOD/FLD_CUBES_EXAMPLE/MOD_CREATE_AUTOCUBE.text) из кода
